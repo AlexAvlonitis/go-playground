@@ -1,6 +1,6 @@
 ## GO SPEED TYPING GAME
 
-Fast project with go - Speed typing terminal game in go.
+Speed typing terminal game in go.
 
 note: only works in linux.
 
