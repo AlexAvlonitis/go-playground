@@ -7,8 +7,8 @@ note: only works in linux.
 ### How to play
 
 ```bash
-git clone https://github.com/alexavlonitis/go-speed-typing-game.git
-cd go-speed-typing-game
+git clone https://github.com/alexavlonitis/go-playground
+cd go-playground/go-speed-typing-game
 
 # Run
 go run main.go logger.go
